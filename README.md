@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi 👋
 
-I'm [Tari Joel], a budding data analyst passionate about turning raw data into actionable insights. Currently honing my skills in the data realm, here's a bit about my journey so far:
+I'm __Tari Joel__, a budding data analyst passionate about turning raw data into actionable insights. Currently honing my skills in the data realm, here's a bit about my journey so far:
 
 ## 🔍 Skills
 - **SQL:** Querying databases and extracting valuable information.
